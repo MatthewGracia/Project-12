@@ -4,7 +4,7 @@ const db = require("./db");
 
 init();
 
-// Display logo text, load main prompts
+//load main prompts
 function init() {
 
   loadMainPrompts();
